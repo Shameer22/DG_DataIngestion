@@ -1,0 +1,24 @@
+file_type: csv
+dataset_name: file
+file_name: Cricket
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - Players
+      - Mahendra Singh Dhoni
+      - Virat Kohli
+      - Rohit Sharma
+      - Ravindra Jadeja
+      - Hardik Pandya
+      - Dinesh Karthik
+      - Jasprit Bumrah
+      - Mohammad Shami
+      - Yuzvendra Chahal
+      - Ravichandran Ashwin
+      - Hardik Pandya
+      - Shikhar Dhawan
+      - Deepak Chahar
+      - Shardul Thakur
+     
